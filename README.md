@@ -1,2 +1,2 @@
-# read-directory
-simple php function to recursively read directory.
+# List Directory with Recursive Function
+Function to list all the directories and it's subdirectories in recursive mode.
